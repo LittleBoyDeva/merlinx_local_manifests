@@ -4,4 +4,4 @@
 This repo is under development
 
 
-This local manifest help to import device tree, kernal and sepolicy of redmi note 9(merlinx) to device folder.
+This local manifest help to import device tree, kernel and sepolicy to device folder.
